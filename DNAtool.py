@@ -1,3 +1,5 @@
+// This files contains a few programs for basic manipulation of deoxyribonucleic acid (DNA) sequence
+
 def get_length(dna):
     """ (str) -> int
 
