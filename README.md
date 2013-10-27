@@ -1,6 +1,10 @@
 Python
 ======
 
+This repository contains several programs written in Python:
+
+WordPuzzel:
+
 This program implement a word search game. 
 
 The game provides a rectangular board of letters (read from a file). 
