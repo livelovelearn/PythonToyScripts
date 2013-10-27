@@ -4,10 +4,14 @@ Python
 This repository contains several programs written in Python:
 
 FastaQ_Converter:
+
 This short program convert DNA sequences I obtained from next-generation sequencing to format that can be directly loaded to NCBI platform
 
+
 DNAtool:
+
 This file contains a few basic manipulation of DNA sequences.
+
 
 WordPuzzel:
 
